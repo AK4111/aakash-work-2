@@ -124,7 +124,7 @@ async def start(bot, message):
                 InlineKeyboardButton("♻️ HΞLᎮ ♻️", callback_data="help"),
                 InlineKeyboardButton("♻️ ΛBOUT ♻️", callback_data="about")
                 ],[
-                InlineKeyboardButton("🤖 Updates", url='https://t.me/Badsha_Studios'),
+                InlineKeyboardButton("🤖 Updates", url='https://t.me/Moviez_Express_Official'),
                 InlineKeyboardButton("Group", url='https://t.me/Movie_Maker_Backup')
                 ]]
             )
