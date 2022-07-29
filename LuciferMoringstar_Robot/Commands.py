@@ -119,7 +119,7 @@ async def start(bot, message):
             parse_mode="Markdown",
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton('➕ ᴀᴅᴅ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+                InlineKeyboardButton("➕ ᴀᴅᴅ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f'https://t.me/Movie_SearchUltra_bot?startgroup=true')
                 ],[
                 InlineKeyboardButton("📂 How To Search Files 📂", callback_data="open")
                 ],[
