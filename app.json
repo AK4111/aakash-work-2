@@ -1,10 +1,10 @@
 {
     "name": "AutoFilterShort",
     "description": "A auto filter bot with Url Shortner Support",
-    "logo":"https://telegra.ph/file/55eda65422afb05f8955f.jpg",
+    "logo":"https://telegra.ph/file/88c0c8b67923fd587b8f7.jpg",
     
-    "website": "https://github.com/AK4111/aakash-work-1",
-    "repository": "https://github.com/AK4111/aakash-work-1",
+    "website": "https://github.com/Happy9012/aakash-work-1",
+    "repository": "https://github.com/Happy9012/aakash-work-1",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -38,7 +38,7 @@
         },
         "START_MSG": {
             "description": "Welcome message for start command",
-            "value": "**Hi, I'm Auto Filter Bot**",
+            "value": "**Hi, I'm Movie Provider Bot**",
             "required": false
         },
         "USE_CAPTION_FILTER": {
@@ -101,7 +101,7 @@
         },
         "SHAREUS_API": {
             "description": "Shareus.in API",
-            "value": "NJYmi870bkU7uiqabwqLDmzrPHo1",
+            "value": "n7Ptc6cY5MWMbuQdgwx2mG5nS2V2",
             "required": false
         }
     },
