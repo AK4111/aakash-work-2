@@ -85,7 +85,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton("❗Report❗️", url="https://t.me/Moviez_Express_Official")
+                        InlineKeyboardButton("❗Report❗️", url="https://t.me/Himanshurathore0")
                     ]
                     ]
                 proc_msg = await bot.send_cached_media(
@@ -114,20 +114,20 @@ async def start(bot, message):
         )
     else:
         await message.reply_photo(
-            photo='https://telegra.ph/file/55eda65422afb05f8955f.jpg',
+            photo='https://telegra.ph/file/88c0c8b67923fd587b8f7.jpg',
             caption=START_MSG,
             parse_mode="Markdown",
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("➕ ᴀᴅᴅ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f'https://t.me/Movie_SearchUltra_bot?startgroup=true')
+                InlineKeyboardButton("➕ ᴀᴅᴅ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f'https://t.me/Movie_Provider_bot?startgroup=true')
                 ],[
                 InlineKeyboardButton("📂 How To Search Files 📂", callback_data="open")
                 ],[
                 InlineKeyboardButton("♻️ HΞLᎮ ♻️", callback_data="help"),
                 InlineKeyboardButton("♻️ ΛBOUT ♻️", callback_data="about")
                 ],[
-                InlineKeyboardButton("🤖 Updates", url='https://t.me/Moviez_Express_Official'),
-                InlineKeyboardButton("Group", url='https://t.me/Movie_Maker_Backup')
+                InlineKeyboardButton("🤖 Updates", url='https://t.me/pocketmovieschannel'),
+                InlineKeyboardButton("Group", url='https://t.me/Pocketmoviesgroup')
                 ]]
             )
         )
