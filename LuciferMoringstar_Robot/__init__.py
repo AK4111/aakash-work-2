@@ -30,13 +30,13 @@ Bot Owner Only 👇🏻
 """
 
 ABOUT = """
-**➥ Name :  Movie Search Ultra Bot
+**➥ Name :  Movie Search Bot
     
-➥ Creator : [Aakash Official](https://t.me/AakashOfficialz)
+➥ Creator : [Himanshu](https://t.me/Himanshurathore0)
 
-➥ Updates : [Moviez Express Official](https://t.me/Moviez_Express_Official)
+➥ Updates : [Pocket Movies](https://t.me/pocketmovieschannel)
 
-➥ Group : [Movie Maker](https://t.me/Movie_Maker_Backup)
+➥ Group : [Pocket Group](https://t.me/Pocketmoviesgroup)
 
 """
 
@@ -58,5 +58,5 @@ Exᴀᴍᴘʟᴇ - Mꜱ Mᴀʀᴠᴇʟ S01 ✅
 Iꜰ ɴᴏᴛ ꜰᴏᴜɴᴅ - Sᴇʀɪᴇꜱ Nᴀᴍᴇ + Sᴇᴀꜱᴏɴ + Eᴘɪꜱᴏᴅᴇ
 Exᴀᴍᴘʟᴇ - Mꜱ Mᴀʀᴠᴇʟ S01 S03 ᴏʀ S01E03 ✅
 
-Dᴇᴠ **@AakashOfficialz 🌝**
+Dᴇᴠ **@Himanshurathore0 🌝**
 """
